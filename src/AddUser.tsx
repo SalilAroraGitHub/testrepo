@@ -36,7 +36,6 @@ export default function AddUser() {
     <div>
       <h1>Hello guys</h1>
       <h1>Helllo ji</h1>
-      <h2>hello guyssss</h2>
       <h2>Add User</h2>
       <form onSubmit={handleSubmit} style={{ marginBottom: "20px" }}>
         <input
